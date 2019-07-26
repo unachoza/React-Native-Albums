@@ -8,7 +8,7 @@ const ThisApp = () => {
     return (
     
     <View style={{flex: 1}}>
-        <Header headerText={'Albums!!'} />
+        <Header headerText={'Taylor Swift Albums'} />
         <AlbumnList />
     </View>
     
