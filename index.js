@@ -7,7 +7,7 @@ import AlbumnList from './src/components/AlbumList'
 const ThisApp = () => {
     return (
     
-    <View>
+    <View style={{flex: 1}}>
         <Header headerText={'Albums!!'} />
         <AlbumnList />
     </View>
